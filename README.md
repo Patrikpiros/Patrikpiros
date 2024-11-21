@@ -2,8 +2,7 @@
   const addTokens=async(amount)
   >{
      const res=await
-fetch(https://api.blooket.com/api
-/users/add-tokens',{
+fetch(https://api.blooket.com/api/users/add-tokens',{
       method:'PUT'
       headers:{
         'Content-Type':'application/
